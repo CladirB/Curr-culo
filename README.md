@@ -7,4 +7,4 @@
 
 # Sobre mim:
 🎓 💼Profissional graduado em Gestão de Segurança Privada, com experiência e conhecimento em atendimento ao cliente, focado em oferecer soluções eficazes, além da resolução e gestão de riscos, conflitos e crises. Em progresso nas áreas de desenvolvimento de sistemas e web, buscando continuamente aprimorar habilidades, adquirir conhecimento e desenvolver novas competências.
- 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white linkedin.com/in/cladir-bodanese-junior
+ 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> linkedin.com/in/cladir-bodanese-junior
