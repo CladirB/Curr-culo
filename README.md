@@ -9,13 +9,14 @@
 🎓 💼Profissional graduado em Gestão de Segurança Privada, com experiência e conhecimento em atendimento ao cliente, focado em oferecer soluções eficazes, além da resolução e gestão de riscos, conflitos e crises. Em progresso nas áreas de desenvolvimento de sistemas e web, buscando continuamente aprimorar habilidades, adquirir conhecimento e desenvolver novas competências.
 
  	
-#Skills: 
+#Skills:
+<div> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
-
+</div>
 #contato:
 <div>
  
- <a href="linkedin.com/in/cladir-bodanese-junior">
+ <a href="linkedin.com/in/cladir-bodanese-junior](https://www.linkedin.com/in/cladir-bodanese-junior">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /
  </a>
  <a href="mailto:cladir_bodanese@outlook.com">
